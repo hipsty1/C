@@ -20,3 +20,6 @@
 
 7. ifElseStatement.c
 -File ini berisi tentang penggunaan if dan else dalam pemroggraman, biasanya perintah ini digunakan untuk melakukan sesuatu program dengan syarat suatu kondisi. Perintah if else dapat digunakan dengan format "if(statement){program;}else{program". Selain itu if else dapat digunakan berulang seperti pada file.
+
+8. switchCase.c
+-File ini berisi program penggunaan switch case pada bahasa C. Dengan format "switch(variabel){case 1: program; break; default: program;}". Untuk lebih jelas dapat diihat pada file.
