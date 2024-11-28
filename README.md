@@ -23,3 +23,6 @@
 
 8. switchCase.c
 -File ini berisi program penggunaan switch case pada bahasa C. Dengan format "switch(variabel){case 1: program; break; default: program;}". Untuk lebih jelas dapat diihat pada file.
+
+9. incrementDanDecrement.c
+-File ini berisi tentang penggunaan increment dan decrement yang dimana perintah ini akan sering digunakan pada looping (perulangan) nantinya.
