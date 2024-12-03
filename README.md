@@ -26,3 +26,6 @@
 
 9. incrementDanDecrement.c
 -File ini berisi tentang penggunaan increment dan decrement yang dimana perintah ini akan sering digunakan pada looping (perulangan) nantinya.
+
+10. operatorLogika.c
+-File ini berisi penggunaan logika pada pemrograman seperti or(||), and(&&), dan not(!()).
