@@ -31,7 +31,10 @@
 -File ini berisi penggunaan logika pada pemrograman seperti or(||), and(&&), dan not(!()).
 
 11. whileLooping.c
--File ini berisi penggunaan looping while. Looping ini memiliki format: while(syarat){perintah}
+-File ini berisi penggunaan looping while. Looping ini memiliki format: while(syarat){program;}
 
 12. doWhileLooping.c
--File ini berisi penggunaan looping do-while. Looping ini memiiki format: do{perintahLoop}while(syarat)
+-File ini berisi penggunaan looping do-while. Looping ini memiiki format: do{program;}while(syarat)
+
+13. forlooping.c
+-File ini berisi penggunaan looping for. Looping ini memiliki format: for(initiasi; syarat; increment/decrement){program;}
