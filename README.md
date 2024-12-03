@@ -38,3 +38,6 @@
 
 13. forlooping.c
 -File ini berisi penggunaan looping for. Looping ini memiliki format: for(initiasi; syarat; increment/decrement){program;}
+
+14. breakContinue.c
+-File ini berisi penggunaan "breal;" (menghentikan program) dan "continue;" (menghetikan, kemudian melanjutkan proram.
