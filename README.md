@@ -29,3 +29,6 @@
 
 10. operatorLogika.c
 -File ini berisi penggunaan logika pada pemrograman seperti or(||), and(&&), dan not(!()).
+
+11. whileLooping.c
+-File ini berisi penggunaan looping while. Looping ini memiliki format: "while(syarat){perintah}"
