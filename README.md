@@ -31,19 +31,22 @@
 - ini berisi penggunaan logika pada pemrograman seperti or(||), and(&&), dan not(!()).
 
 11. whileLooping.c
-- ini berisi penggunaan looping while. Looping ini memiliki format: while(syarat){program;}
+- ini berisi penggunaan looping while. Looping ini memiliki format: while(syarat){program;}.
 
 12. doWhileLooping.c
-- ini berisi penggunaan looping do-while. Looping ini memiiki format: do{program;}while(syarat)
+- ini berisi penggunaan looping do-while. Looping ini memiiki format: do{program;}while(syarat).
 
 13. forlooping.c
-- ini berisi penggunaan looping for. Looping ini memiliki format: for(initiasi; syarat; increment/decrement){program;}
+- ini berisi penggunaan looping for. Looping ini memiliki format: for(initiasi; syarat; increment/decrement){program;}.
 
 14. breakContinue.c
 - ini berisi penggunaan "breal;" (menghentikan program) dan "continue;" (menghetikan, kemudian melanjutkan proram.
 
 15. deretFibonancci.c
-- ini berisi tentang deret fionancci dimana deret dari penjumlahan dua suku sebelumnya (Sn = (Sn-1) - (Sn-2))
+- ini berisi tentang deret fionancci dimana deret dari penjumlahan dua suku sebelumnya (Sn = (Sn-1) - (Sn-2)).
 
 16. fungsiReturn.c
 - ini berisi penggunaan fungsi pada matematika "f(x)=. . ." pada bahasa pemrograman.
+
+17. fungsiVoid.c
+- ini berisi sebuah program dimana suatu statement ditampung di suatu fungsi void. biasanya hal ini dilakukan untuk mempermudah pengerjaan suatu projek dalam team dan menyngkat line pada pemrograman.
