@@ -45,5 +45,5 @@
 15. deretFibonancci.c
 - ini berisi tentang deret fionancci dimana deret dari penjumlahan dua suku sebelumnya (Sn = (Sn-1) - (Sn-2))
 
-19. fungsiReturn.c
+16. fungsiReturn.c
 - ini berisi penggunaan fungsi pada matematika "f(x)=. . ." pada bahasa pemrograman.
