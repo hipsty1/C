@@ -37,10 +37,10 @@
 - ini berisi penggunaan looping do-while. Looping ini memiiki format: do{program;}while(syarat)
 
 13. forlooping.c
--File ini berisi penggunaan looping for. Looping ini memiliki format: for(initiasi; syarat; increment/decrement){program;}
+- ini berisi penggunaan looping for. Looping ini memiliki format: for(initiasi; syarat; increment/decrement){program;}
 
 14. breakContinue.c
--File ini berisi penggunaan "breal;" (menghentikan program) dan "continue;" (menghetikan, kemudian melanjutkan proram.
+- ini berisi penggunaan "breal;" (menghentikan program) dan "continue;" (menghetikan, kemudian melanjutkan proram.
 
 15. deretFibonancci.c
 - ini berisi tentang deret fionancci dimana deret dari penjumlahan dua suku sebelumnya (Sn = (Sn-1) - (Sn-2))
