@@ -1,24 +1,13 @@
-## PENJELASAN BAHASA C ##
+# ===== C ===== #
 
-1. ujiCoba.c
-- file ini hanya berisi tentang uji coba running bahasa C.
+This is a documentation of my learning and you can follow it in the following structure:
 
-2. prinf.c
-- file ini berisi tentang bagaimana memunculkan suatu output menggunakan perintah printf().
-
-3. scanf.c
-- ini berisi tentang bagaimana kita menyimpam suatu input user menggunakan perintah scanf().
-
-4. tipeData.c
-- ini berisi tentang jenis-jenis data yang umumnya dipakai di dalam bahasa pemrograman seperti (int, float, bool, string, char, double, dll).
-
-5. operasiMatematika.c
-- ini berisi tentang operasi matematika pada bahasa pemrograman, seperti penjulahan (+), pengurangan(-), perkalian(*), pembagian(/), dan modulus (%)
-
-6. perbandinganDataDanIfStatement.c
-- ini berisi tentang perbandingan data yang sering digunakan pada pemrograman seperti sama dengan (==), lebih kecil dari(<=), dan lebih besar dari(>=). Selain itu pada file ini berisi tentang penggunaan perintah "if(statement){program;}".
-
-7. ifElseStatement.c
+1. prinf.c
+2. scanf.c
+3. tipeData.c
+4. operasiMatematika.c
+5. perbandinganDataDanIfStatement.c
+6. ifElseStatement.c
 - ini berisi tentang penggunaan if dan else dalam pemroggraman, biasanya perintah ini digunakan untuk melakukan sesuatu program dengan syarat suatu kondisi. Perintah if else dapat digunakan dengan format "if(statement){program;}else{program". Selain itu if else dapat digunakan berulang seperti pada file.
 
 8. switchCase.c
