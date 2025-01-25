@@ -1,4 +1,4 @@
-# ===== C ===== #
+# ===== C =====
 
 This is a documentation of my learning and you can follow it in the following structure:
 
@@ -21,3 +21,8 @@ This is a documentation of my learning and you can follow it in the following st
 17. pointer.c
 18. rekursif.c
 19. array.c
+20. arrayMultiDimensi.c
+21. string.c
+22. header.c
+
+# Spesial Thanks to waydo(You Tube Channel)
