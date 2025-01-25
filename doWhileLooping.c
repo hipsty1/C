@@ -9,3 +9,5 @@ int main(){
         printf("Hallo\n");
     return 0;
 }
+
+//sebuah looping dengan minimal pengulangan sekali, dimana looping ini akan melakukan sebuah looping hingga sebuah syarat terpenuhi.

@@ -33,3 +33,6 @@ int main(){
 
     return 0;
 }
+
+//sebuah operasi yang digunakan dalam menyingkat sebuat operasi aritmatika.
+//selain it, operasi ini juga sering digunakan untuk looping.

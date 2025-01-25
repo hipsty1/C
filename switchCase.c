@@ -17,4 +17,8 @@ int main(){
         default:
         printf("default");
     }
+    return 0;
 }
+
+//pengondisian dengan menjalankan sebuah syntax sesuai syarat.
+//berbeda dengan id else, switch case bernilai tetap bukan kisaran.

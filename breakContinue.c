@@ -10,3 +10,8 @@ int main(){
     printf("end");
     return 0;
 }
+
+/*
+continue digunakan untuk melanjutkan program tanpa mengeksekuis syntax continue.
+break digunakan untuk meberhentikan sebuah program.
+*/

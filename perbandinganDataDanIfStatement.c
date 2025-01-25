@@ -8,3 +8,9 @@ int main(){
     printf("end");
     return 0;
 }
+
+/*
+perbandingan dalam pemrograman:
+'==' sama dengan
+'!=' tidak sama dengan
+*/

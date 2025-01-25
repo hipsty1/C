@@ -18,3 +18,5 @@ int main(){
     //untuk type float dapat menggunakan (.) untuk mnentukan jumlah angka dibelakang koma
     return 0;
 }
+
+//tipe data dasar pada pemrograman.

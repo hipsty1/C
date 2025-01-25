@@ -11,4 +11,7 @@ int main(){
     }else{
         printf("x lebih besar dari 2");
     }
+    return 0;
 }
+
+//sebuah pengondisian dengan mengeksekusi sebuah program sesuai dengan syarat yang tercantum.

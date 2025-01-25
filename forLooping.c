@@ -7,4 +7,8 @@ int main(){
         printf("Hallo\n");
     }
     printf("Done");
+    return 0;
 }
+
+//sebuah looping dengan format for(inisialisasi; kondisi; in/decrement){statement}
+//looping yang umum digunakan dalam pemrograman

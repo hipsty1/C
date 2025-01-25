@@ -17,3 +17,6 @@ int main(){
     printf("Nilai input = %d\n", a);
     return 0;
 }
+
+//fungsi dimana seluruh tindakan dalam 'int maint()' dapat dilakukan.
+//fungsi ini digunakan untuk menyingkat code dalam sebuah program yang memiliki sebuah syntax atau proses yang sama.

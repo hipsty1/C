@@ -30,4 +30,7 @@ int main(){
     }else{
         printf("false\n");
     }
+    return 0;
 }
+
+//operasi logika yang sering digunakan dalam pemrograman.

@@ -29,3 +29,5 @@ int main(){
     printf("%d mod %d = %d", a, b, c);
     return 0;
 }
+
+//operasi dasar matematika dalam pemrograman.

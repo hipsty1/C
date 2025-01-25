@@ -7,3 +7,6 @@ int main(){
         i++;
     }
 }
+
+//sama dengan looping for.
+//lebih simple untuk dipahami namun perlu lebih banyak line.

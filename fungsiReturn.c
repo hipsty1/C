@@ -14,3 +14,5 @@ int main(){
     printf("y = a x b = %d", hasil);
     return 0;
 }
+
+//sebuah fungsi dengan memanfaatkan return sebagai sebuah hasil dalam fungsi tersebut.

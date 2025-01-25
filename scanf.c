@@ -14,3 +14,5 @@ int main(){
     printf("jumlahnya adalah %d", a);
     return 0;
 }
+
+//input dalam bahasa pemrograman C.

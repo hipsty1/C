@@ -14,4 +14,7 @@ int main(){
         s0 = s1;
         s1 = sn;
     }
+    return 0;
 }
+
+//sebuah deret dimana hasil dari 2 suku sebelumnya (sn=(s(n-1))+s(n-2)) dengan catatan s0=0 & s1=1.
